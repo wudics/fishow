@@ -1,0 +1,2 @@
+export GOPATH="E:\Golang\fishow"
+echo "GOPATH set to: $GOPATH"
